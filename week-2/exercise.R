@@ -9,7 +9,7 @@ my_vector <- c(my_num, initials)
 vector_sum <- sum(my_vector)
 
 # Describe why this doesn't work: 
-# 
+# you can only add the same type of argument, ie numbers, the initials are not numbers.
 
 install.packages("stringr")
 
